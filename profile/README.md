@@ -17,7 +17,7 @@ brew trust octomac-app/tap
 brew install --cask octomac
 ```
 
-- [Website](https://octomac-app.github.io/OctoMac/)
+- [Website](https://octomac-app.github.io/)
 - [Source code](https://github.com/OctoMac-App/OctoMac)
 - [Report a problem or suggest a feature](https://github.com/OctoMac-App/OctoMac/issues)
 - [Buy me a coffee](https://buymeacoffee.com/rogerthomas)
